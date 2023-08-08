@@ -111,6 +111,8 @@
 <summary>ERD</summary>
 <div markdown="1">
 
+
+https://www.figma.com/file/UY6u7Tpq29rOTAjlee2jF3/G17-main-project?type=design&node-id=0-1&mode=design
 <img src="./img/erd.png" alt="erdImg">
 
 </div>
