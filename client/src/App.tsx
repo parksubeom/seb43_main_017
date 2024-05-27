@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import 'src/css/App.css';
 import 'src/css/reset.css';
 import { BrowserRouter } from 'react-router-dom';
